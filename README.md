@@ -44,7 +44,7 @@ The receipt data is stored as a list of lists:
 ---
 
 ## 🖼️ Sample Output
-![Application Screenshot]()
+![Application Screenshot](Payment-Receipt-Generator/screenshot.png)
 
 ---
 
